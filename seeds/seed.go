@@ -17,7 +17,7 @@ func main() {
 		Category:    "Casual",
 		Stock:       25,
 		Description: "Jaket hoodie polos bahan fleece nyaman dipakai harian",
-		ImageURL:    "https://picsum.photos/400",
+		ImageURL:    "https://i.ibb.co.com/d04dbDb8/black-hoodie-shown-front-back-260nw-2557275213.webp",
 	},
 	{
 		Name:        "Bomber Navy",
@@ -25,7 +25,7 @@ func main() {
 		Category:    "Casual",
 		Stock:       20,
 		Description: "Jaket bomber stylish dengan bahan lembut",
-		ImageURL:    "https://picsum.photos/401",
+		ImageURL:    "https://i.ibb.co.com/CKnC2XjW/2083aeaa-c3b3-grande.webp",
 	},
 	{
 		Name:        "Varsity Grey",
@@ -33,7 +33,7 @@ func main() {
 		Category:    "Casual",
 		Stock:       18,
 		Description: "Jaket varsity modern dengan desain premium",
-		ImageURL:    "https://picsum.photos/402",
+		ImageURL:    "https://i.ibb.co.com/PvPbSjv9/Grey-Varsity-Jacket-500x600.webp",
 	},
 	{
 		Name:        "Denim Jacket Blue",
@@ -41,7 +41,7 @@ func main() {
 		Category:    "Casual",
 		Stock:       15,
 		Description: "Jaket denim klasik warna biru",
-		ImageURL:    "https://picsum.photos/403",
+		ImageURL:    "https://i.ibb.co.com/BHfxxr6s/c5f225d0-e38e-43cf-9c74-4034bc0561bd1739614460637-LOCOMOTIVE-Men-Blue-Solid-Denim-Jacket-42817396144.jpg",
 	},
 	{
 		Name:        "Sweater Zip Abu",
@@ -49,7 +49,7 @@ func main() {
 		Category:    "Casual",
 		Stock:       30,
 		Description: "Jaket sweater resleting untuk santai",
-		ImageURL:    "https://picsum.photos/404",
+		ImageURL:    "https://i.ibb.co.com/8DCsBBgD/04729702811-000-e1.webp",
 	},
 	{
 		Name:        "Windbreaker Merah",
@@ -57,7 +57,7 @@ func main() {
 		Category:    "Outdoor",
 		Stock:       22,
 		Description: "Jaket ringan tahan angin untuk outdoor",
-		ImageURL:    "https://picsum.photos/405",
+		ImageURL:    "https://i.ibb.co.com/LX207vfB/triple-jaket-parasut-windbreaker-merah-4853503-3-68398.webp",
 	},
 	{
 		Name:        "Parka Army",
@@ -65,7 +65,7 @@ func main() {
 		Category:    "Outdoor",
 		Stock:       12,
 		Description: "Jaket parka tebal cocok cuaca dingin",
-		ImageURL:    "https://picsum.photos/406",
+		ImageURL:    "https://i.ibb.co.com/tcfR2Nr/728e82154514bf9e3fa98f13415c7d2f.jpg",
 	},
 	{
 		Name:        "Jaket Gunung Waterproof",
@@ -73,7 +73,7 @@ func main() {
 		Category:    "Outdoor",
 		Stock:       10,
 		Description: "Jaket tahan air untuk aktivitas outdoor",
-		ImageURL:    "https://picsum.photos/407",
+		ImageURL:    "https://i.ibb.co.com/hJQ81DvC/id-11134207-7rbkb-m7hdlyd9c71120.webp",
 	},
 	{
 		Name:        "Jaket Hiking Hijau",
@@ -81,7 +81,7 @@ func main() {
 		Category:    "Outdoor",
 		Stock:       14,
 		Description: "Jaket hiking breathable dan nyaman",
-		ImageURL:    "https://picsum.photos/408",
+		ImageURL:    "https://i.ibb.co.com/ZRLnbk77/photo-1669082072806-84c5d3ae7b15.avif",
 	},
 	{
 		Name:        "Softshell Outdoor",
@@ -89,7 +89,7 @@ func main() {
 		Category:    "Outdoor",
 		Stock:       16,
 		Description: "Jaket softshell fleksibel untuk perjalanan",
-		ImageURL:    "https://picsum.photos/409",
+		ImageURL:    "https://i.ibb.co.com/XZgfh9sL/premium-photo-1697183202186-8ef20ffa6ab0.avif",
 	},
 	}
 	for _, p := range products {
