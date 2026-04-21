@@ -81,7 +81,7 @@ func main() {
 		Category:    "Outdoor",
 		Stock:       14,
 		Description: "Jaket hiking breathable dan nyaman",
-		ImageURL:    "https://i.ibb.co.com/ZRLnbk77/photo-1669082072806-84c5d3ae7b15.avif",
+		ImageURL:    "https://i.ibb.co.com/5gxZxRJk/1-Online-Consina-Swiftland-Olive.jpg",
 	},
 	{
 		Name:        "Softshell Outdoor",
@@ -89,7 +89,7 @@ func main() {
 		Category:    "Outdoor",
 		Stock:       16,
 		Description: "Jaket softshell fleksibel untuk perjalanan",
-		ImageURL:    "https://i.ibb.co.com/XZgfh9sL/premium-photo-1697183202186-8ef20ffa6ab0.avif",
+		ImageURL:    "https://i.ibb.co.com/9H75tJsc/DSC08295.jpg",
 	},
 	}
 	for _, p := range products {
