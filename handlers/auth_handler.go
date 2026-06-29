@@ -30,6 +30,7 @@ func (h *AuthHandler) VerifyToken(c *gin.Context) {
 		})
 		return
 	}
+
 	// 2. Verifikasi via service
 	jwtToken, user, err := h.authService.VerifyFirebaseToken(req.FirebaseToken)
 	if err != nil {
@@ -49,6 +50,7 @@ func (h *AuthHandler) VerifyToken(c *gin.Context) {
 		}
 		return
 	}
+
 	// 3. Return Backend JWT + data user
 	expireHours := 24
 	c.JSON(http.StatusOK, gin.H{
